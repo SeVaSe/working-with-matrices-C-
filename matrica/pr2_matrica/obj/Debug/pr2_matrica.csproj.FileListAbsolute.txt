@@ -1,0 +1,16 @@
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.exe.config
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.exe
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.pdb
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.AssemblyReference.cache
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.exe
+D:\VisualStudio_Projects\C#\PR_Titov\2pr\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.pdb
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.exe.config
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.exe
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\bin\Debug\pr2_matrica.pdb
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.AssemblyReference.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.exe
+C:\VisualStudio\Vs_Projects\C#\PR_Titov\PR_TITOV_\PR_TITOV_\pr2\pr2_matrica\pr2_matrica\obj\Debug\pr2_matrica.pdb
